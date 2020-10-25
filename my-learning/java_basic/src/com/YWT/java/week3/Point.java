@@ -13,8 +13,8 @@ import lombok.NoArgsConstructor;
  **/
 
 public class Point {
-    private Integer x;
-    private Integer y;
+    public Integer x;
+    public Integer y;
 
     public  Point(){
         System.out.println("点被初始化！");
