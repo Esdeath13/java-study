@@ -10,10 +10,13 @@
       <sourceFolder url="file://$MODULE_DIR$/java_basic/src/com/YWT/java/week2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_basic/src/com/YWT/java/week1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_basic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_basic" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.14" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
   </component>
 </module>
